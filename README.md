@@ -1,6 +1,6 @@
 # Music-Controller-Web-App-Tutorial
 
-The code for Tech With Tim's "Django & React Full Stack Web App Tutorial" series.
+
 
 ## Setup Instructions
 
@@ -13,7 +13,7 @@ pip install -r requirements.txt
 
 To start the web server you need to run the following sequence of commands.
 
-First cd into your desired tutorial folder (replace x with tutorial number).
+
 ```bash 
 cd "Tutorial x"
 ```
